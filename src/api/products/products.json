@@ -1,0 +1,102 @@
+[
+  {
+    "productId": 1,
+    "productName": "Apple iPhone 15 Pro (128 GB)",
+    "productCode": "APP-0011",
+    "releaseDate": "April 19, 2023",
+    "description": "Brand-Apple, Model Name-iPhone 15 Pro, Network Service Provider-Unlocked for All Carriers, Operating System-iOS, Cellular Technology-5G",
+    "price": 127990,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/Apple iPhone 15 Pro (128 GB).jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "iPhone15 (128gb)",
+    "productCode": "APP-0022",
+    "releaseDate": "April 18, 2023",
+    "description": "Brand-Apple, Model Name-iPhone 15, Network Service Provider-Unlocked for All Carriers, Operating System-iOS, Cellular Technology-5G",
+    "price": 71490,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/iPhone15 (128gb).jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "realme narzo N53 (8GB+128GB)",
+    "productCode": "RMN-0033",
+    "releaseDate": "June 21, 2023",
+    "description": "Brand-realme, Model Name-realme narzo N53, Network Service Provider-Unlocked for All Carriers, Operating System-Android 13.0, Cellular Technology-4G",
+    "price": 8999,
+    "starRating": 3.8,
+    "imageUrl": "assets/images/realme narzo N53 (8GB+128GB).jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "Redmi 13C (6GB RAM, 128GB Storage)",
+    "productCode": "RDM-0044",
+    "releaseDate": "June 15, 2023",
+    "description": "Brand-Xiaomi, Model Name-Redmi 13C, Network Service Provider-Unlocked for All Carriers, Operating System-MIUI 14, Android 13.0, Cellular Technology-4G",
+    "price": 8999,
+    "starRating": 3.7,
+    "imageUrl": "assets/images/Redmi 13C (6GB RAM, 128GB Storage).jpg"
+  },
+  {
+    "productId": 5,
+    "productName": "Redmi A2 ( 2GB RAM, 64GB Storage)",
+    "productCode": "RDM-0055",
+    "releaseDate": "September 15, 2023",
+    "description": "Brand-Redmi, Model Name-Redmi A2, Network Service Provider-Unlocked for All Carriers, Operating System-Android 13 Go, Android 13.0, Cellular Technology-4G",
+    "price": 5499,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/Redmi A2 ( 2GB RAM, 64GB Storage).jpg"
+  },
+  {
+    "productId": 6,
+    "productName": "OnePlus Nord CE 2 Lite 5G (6GB RAM, 128GB Storage)",
+    "productCode": "ONP-0066",
+    "releaseDate": "September 15, 2023",
+    "description": "Brand-OnePlus, Model Name-Nord CE 2 Lite 5G, Network Service Provider-Unlocked for All Carriers, Operating System-OxygenOS, Cellular Technology-5G",
+    "price": 17999,
+    "starRating": 4.1,
+    "imageUrl": "assets/images/OnePlus Nord CE 2 Lite 5G (6GB RAM, 128GB Storage).jpg"
+  },
+  {
+    "productId": 7,
+    "productName": "Redmi Note 13 5G (12GB RAM, 256GB Storage)",
+    "productCode": "RDM-0077",
+    "releaseDate": "September 15, 2023",
+    "description": "Brand-Redmi, Model Name-Redmi Note 13 5G, Network Service Provider-Unlocked for All Carriers, Operating System-Android 13, MIUI 14, Cellular Technology-5G",
+    "price": 21999,
+    "starRating": 4.1,
+    "imageUrl": "assets/images/Redmi Note 13 5G (12GB RAM, 256GB Storage).jpg"
+  },
+  {
+    "productId": 8,
+    "productName": "Samsung Galaxy M13 ( 4GB, 64GB Storage)",
+    "productCode": "SMG-0088",
+    "releaseDate": "September 15, 2023",
+    "description": "Brand-Samsung, Model Name-Samsung Galaxy M13, Network Service Provider-Unlocked for All Carriers, Operating System-Android 12.0, Cellular Technology-4G",
+    "price": 9999,
+    "starRating": 4.0,
+    "imageUrl": "assets/images/Samsung Galaxy M13 ( 4GB, 64GB Storage).jpg"
+  },
+  {
+    "productId": 9,
+    "productName": "Samsung Galaxy M34 5G (8GB,128GB)",
+    "productCode": "SMG-0099",
+    "releaseDate": "September 15, 2023",
+    "description": "Brand-Samsung, Model Name-Samsung Galaxy M34 5G, Network Service Provider-Unlocked for All Carriers, Operating System-Android 13.0, Cellular Technology-5G",
+    "price": 17999,
+    "starRating": 4.1,
+    "imageUrl": "assets/images/Samsung Galaxy M34 5G (8GB,128GB).jpg"
+  },
+  {
+    "productId": 10,
+    "productName": "Samsung Galaxy S20 FE 5G (8GB RAM, 128GB Storage)",
+    "productCode": "SMG-0100",
+    "releaseDate": "September 15, 2023",
+    "description": "Brand-Samsung, Model Name-Galaxy S20 FE 5G, Network Service Provider-VoiceStream Wireless Provider Type, Operating System-Android 11.0, Cellular Technology-5G",
+    "price": 26800,
+    "starRating": 4.1,
+    "imageUrl": "assets/images/Samsung Galaxy S20 FE 5G (8GB RAM, 128GB Storage).jpg"
+  }
+]
